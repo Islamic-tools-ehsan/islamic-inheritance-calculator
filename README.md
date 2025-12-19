@@ -22,4 +22,4 @@ This project is optimized for deployment on **Vercel**.
 2. The app will automatically build and go live.
 
 ---
-*Developed with Ihsan for the Global Muslim Ummah.*
+*Developed by Ehsan for the Global Muslim Ummah.*
