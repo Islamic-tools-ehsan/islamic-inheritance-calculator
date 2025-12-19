@@ -1,0 +1,1 @@
+export const languages = ["English","Urdu","Arabic","Turkish","French","Spanish","German","Hindi","Malay","Indonesian","Bengali","Persian","Pashto","Punjabi","Tamil","Swahili","Hausa","Somali","Amharic","Chinese"];
